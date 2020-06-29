@@ -1,0 +1,64 @@
+#main-doc {
+  height:100%;
+  width:100%;
+}
+#navbar {
+  position:fixed;
+  width:25%;
+  height:100%;
+}
+#technical-doc-writing {
+  width:65%;
+  margin-left:25.5%;
+  padding-left:6%;
+  padding-top:1%;
+  overflow-y: auto;
+    overflow-x: hidden;
+}
+#navbar {
+  text-align:center;
+  overflow-y: auto;
+    overflow-x: hidden;
+}
+header {
+  font-weight:bold;
+  font-size:26px;
+}
+p {
+  font-size:20px;
+}
+pre {
+  width:100%;
+}
+#navbar header {
+  padding:5%;
+  border-bottom:1px solid #000;
+}
+.nav-link {
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:20px;
+  border-bottom:1px solid #000;
+  padding:3%;
+  position:relative;
+}
+a {
+  text-decoration:none;
+  color:#000;
+}
+section {
+  padding-top:4%;
+  padding-bottom:4%;
+}
+section header {
+ padding-bottom:1%;
+}
+a:link,
+a:visited {
+  color:#000;
+}
+a:hover, 
+a:active {
+  color:#bfb8b8;
+  font-size:25px;
+}
